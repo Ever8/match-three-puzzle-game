@@ -9,4 +9,9 @@ There are 3 game modes:
 
 There are also some advanced game features like bombs and boosters. 
 
-By developing the game and following the Udemy course, I developed my C# and Unity skills. 
+By developing the game and following the Udemy course, I developed my C# and Unity skills.
+
+**Gameplay:** 
+
+https://user-images.githubusercontent.com/108428179/214348310-a115e367-1c97-4b54-acfc-23a729407aac.mp4
+
