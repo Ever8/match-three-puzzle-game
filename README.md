@@ -2,7 +2,7 @@
 
 **1. Introduction** 
 
-This is a match-three puzzle game in Unity, developed while following "Make a Match-Three Puzzle Game in Unity" course by Wilmer Lin on Udemy (https://www.udemy.com/course/make-a-puzzle-match-game-in-unity/). 
+Here you can find my C# scripts for a match-three puzzle game in Unity, developed while following "Make a Match-Three Puzzle Game in Unity" course by Wilmer Lin on Udemy (https://www.udemy.com/course/make-a-puzzle-match-game-in-unity/). 
 
 There are 3 game modes: 
 
